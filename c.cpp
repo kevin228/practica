@@ -4,5 +4,5 @@ int main()
 {
 printf("Hola Mundo");
   printf("hola joy");
-  printg("lalalalala")
+  printf("lalalalala");
 }
